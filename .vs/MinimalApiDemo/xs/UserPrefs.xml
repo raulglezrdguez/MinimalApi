@@ -1,11 +1,9 @@
 ﻿<Properties StartupConfiguration="{062D8DDD-7909-4BE9-B5F3-4A96E0B797CD}|https">
+  <MonoDevelop.Ide.ItemProperties.MinimalApiDemo PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.MinimalApiDemo PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workbench ActiveDocument="MinimalApiDemo/Program.cs">
     <Files>
       <File FileName="MinimalApiDemo/Program.cs" Line="55" Column="11" />
@@ -30,4 +28,6 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
